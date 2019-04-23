@@ -11,6 +11,6 @@ func imprimirResultado(nota float64) {
 }
 
 func main() {
-	imprimirResultado(7.3)
+	imprimirResultado(7.8)
 	imprimirResultado(6.5)
 }
