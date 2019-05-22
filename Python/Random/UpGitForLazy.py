@@ -1,6 +1,6 @@
 import os
 
-
+## codigo muito besta apenas para dois amigos preguiçosos
 def main():
     
 
